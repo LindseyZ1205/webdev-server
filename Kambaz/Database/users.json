@@ -1,0 +1,4 @@
+[
+  { "_id": "iron_man", "username": "iron_man", "password": "stark123", "firstName": "Tony", "lastName": "Stark", "email": "tony@example.com", "role": "STUDENT", "dob": "" },
+  { "_id": "nick_fury", "username": "nick_fury", "password": "fury123", "firstName": "Nick", "lastName": "Fury", "email": "nick@example.com", "role": "FACULTY", "dob": "" }
+]
